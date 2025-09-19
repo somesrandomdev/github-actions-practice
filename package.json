@@ -1,0 +1,11 @@
+{
+  "name": "github-actions-practice",
+  "version": "1.0.0",
+  "description": "Lab 2",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
